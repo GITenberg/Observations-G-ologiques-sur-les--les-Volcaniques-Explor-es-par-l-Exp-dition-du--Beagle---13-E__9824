@@ -1,0 +1,41 @@
+_repo: Observations-G-ologiques-sur-les--les-Volcaniques-Explor-es-par-l-Exp-dition-du--Beagle---13-E__9824
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Renard, A.-F. (Alphonse-François)
+    aliases:
+    - Renard, Alphonse-François
+    - Renard, A.-F. (Alphonse-Francois)
+    birthdate: 1842
+    deathdate: 1903
+    gutenberg_agent_id: '4666'
+    url: http://www.gutenberg.org/2009/agents/4666
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Francois_Renard
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9824'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcsh 'Volcanoes -- Southern Hemisphere'
+- !lcc 'QE'
+- !lcsh 'Geology -- South America'
+- GITenberg
+title: "Observations Géologiques sur les Îles Volcaniques Explorées par l'Expédition\
+  \ du \"Beagle\"\r\nEt Notes sur la Géologie de l'Australie et du Cap de Bonne-Espérance"
+url: http://www.gutenberg.org/ebooks/9824
