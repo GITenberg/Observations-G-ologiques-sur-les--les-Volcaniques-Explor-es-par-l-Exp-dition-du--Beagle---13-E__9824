@@ -1,5 +1,5 @@
 _repo: Observations-G-ologiques-sur-les--les-Volcaniques-Explor-es-par-l-Exp-dition-du--Beagle---13-E__9824
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Renard, A.-F. (Alphonse-François)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '4666'
     url: http://www.gutenberg.org/2009/agents/4666
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Francois_Renard
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9824#Observations-G-ologiques-sur-les--les-Volcaniques-Explor-es-par-l-Exp-dition-du--Beagle---13-E_
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
